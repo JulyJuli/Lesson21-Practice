@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Practice21.Shop
 {
@@ -16,17 +14,6 @@ namespace Practice21.Shop
         {
             Console.WriteLine($"Hi {Name} from second handler");
         }
-        public decimal MeDelegateProcessor(decimal i)
-        {
-            return i * i;
-        }
-        public void ObjectHandler(object sender, object args)
-        {
-            var convertedArgs = args as List<int>;
-            foreach(var element in convertedArgs)
-            {
-                Console.WriteLine(element);
-            }
-        }
+       
     }
 }

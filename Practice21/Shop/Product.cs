@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Practice21.Shop
+﻿namespace Practice21.Shop
 {
     public class Product
     {
