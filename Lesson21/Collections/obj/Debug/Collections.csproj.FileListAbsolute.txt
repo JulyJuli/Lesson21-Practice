@@ -1,0 +1,6 @@
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Collections\bin\Debug\Collections.exe.config
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Collections\bin\Debug\Collections.exe
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Collections\bin\Debug\Collections.pdb
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Collections\obj\Debug\Collections.exe
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Collections\obj\Debug\Collections.pdb

@@ -4,3 +4,9 @@ C:\Users\User\source\repos\Lesson21\Lesson21\bin\Debug\Lesson21.pdb
 C:\Users\User\source\repos\Lesson21\Lesson21\obj\Debug\Lesson21.csprojAssemblyReference.cache
 C:\Users\User\source\repos\Lesson21\Lesson21\obj\Debug\Lesson21.exe
 C:\Users\User\source\repos\Lesson21\Lesson21\obj\Debug\Lesson21.pdb
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Lesson21\bin\Debug\Lesson21.exe.config
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Lesson21\bin\Debug\Lesson21.exe
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Lesson21\bin\Debug\Lesson21.pdb
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Lesson21\obj\Debug\Lesson21.csprojAssemblyReference.cache
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Lesson21\obj\Debug\Lesson21.exe
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\Lesson21\obj\Debug\Lesson21.pdb
