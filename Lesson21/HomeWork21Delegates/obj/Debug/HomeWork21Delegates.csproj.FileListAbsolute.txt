@@ -1,0 +1,5 @@
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\HomeWork21Delegates\bin\Debug\HomeWork21Delegates.exe.config
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\HomeWork21Delegates\bin\Debug\HomeWork21Delegates.exe
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\HomeWork21Delegates\bin\Debug\HomeWork21Delegates.pdb
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\HomeWork21Delegates\obj\Debug\HomeWork21Delegates.exe
+D:\Lesson21Practiece\Lesson21-Practice\Lesson21\HomeWork21Delegates\obj\Debug\HomeWork21Delegates.pdb
