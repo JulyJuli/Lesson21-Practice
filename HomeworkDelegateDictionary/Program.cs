@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,18 +16,25 @@ namespace HomeworkDelegateDictionary
 
     public class Program
     {
+       
         static void Main(string[] args)
         {
             Dictionary<FigureType, Func<double, double, double, string>> dict = new Dictionary<FigureType, Func<double, double, double, string>>();
 
             dict[FigureType.Circle] = GetCircleProperties;
             dict[FigureType.Rectangle] = GetRectangleProperties;
-
             dict[FigureType.Square] = GetSquareProperties;
             dict[FigureType.Triangle] = GetTriangleProperties;
 
             Console.WriteLine(
                 dict[FigureType.Circle](1, 0, 0));
+
+            // How to wiev method's parameter's names using reflection.
+            var parameters = dict[FigureType.Circle].GetMethodInfo().GetParameters();
+            foreach (var item in parameters)
+            {
+                Console.WriteLine(item);
+            }
 
             Console.ReadKey();
         }
